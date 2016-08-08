@@ -27,11 +27,11 @@ Despite similarities among personal, administrative, and business services, thei
 
 ###Personal Service Exchanges
 
-* Mary finds an outside faucet at her home has started a slow leak.  She would like to call upon a time bank member to repair it.  She can choose from among the following alternatives:
-	* Mary logs-in to Care and Share Time Bank website, searches for "plumbing" and contacts (phone, text, or email) one of the members listed who offered to do plumbing.  They agree on a date / time for the repair to be done and how to handle out-of-pocket expenses for any parts, materials, and special tools.  Once the repair is made Mary credits the member's account for time spent and covers out-or-pocket expenses.  She may also rate the quality of work done and add comments and details about the experience.
-	* Mary attends the next monthly CSTB potluck where she knows most of the attendees, and inquires if anyone can make the repairs or would recommend a CSTB member to do the work.  She then follows-up with direct contact.
-	* Mary calls Beth, another CSTB member and close friend, and asks if she knows of a CSTB member who could do the repair.  Mary follows-up on Beth's referral, if she has one.
-	* Mary approaches Paul, the owner of a neighborhood plumbing business, and explains how the timebank works, what the advantages are for him to become a business member in the CSTB network, and encourages him to join.  Paul signs-up his business and Mary "contracts" with Paul as a business member of CSTB to make the repair, credits Paul for the time he spends, and pays cash for the parts and materials.
+Mary finds an outside faucet at her home has started a slow leak.  She would like to call upon a time bank member to repair it.  She can choose from among the following alternatives:
+* Mary logs-in to Care and Share Time Bank website, searches for "plumbing" and contacts (phone, text, or email) one of the members listed who offered to do plumbing.  They agree on a date / time for the repair to be done and how to handle out-of-pocket expenses for any parts, materials, and special tools.  Once the repair is made Mary credits the member's account for time spent and covers out-or-pocket expenses.  She may also rate the quality of work done and add comments and details about the experience.
+* Mary attends the next monthly CSTB potluck where she knows most of the attendees, and inquires if anyone can make the repairs or would recommend a CSTB member to do the work.  She then follows-up with direct contact.
+* Mary calls Beth, another CSTB member and close friend, and asks if she knows of a CSTB member who could do the repair.  Mary follows-up on Beth's referral, if she has one.
+* Mary approaches Paul, the owner of a neighborhood plumbing business, and explains how the timebank works, what the advantages are for him to become a business member in the CSTB network, and encourages him to join.  Paul signs-up his business and Mary "contracts" with Paul as a business member of CSTB to make the repair, credits Paul for the time he spends, and pays cash for the parts and materials.
 
 ###Administrative Service Exchanges
 
